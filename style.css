@@ -257,6 +257,7 @@ input[type="radio"] {
         display: flex;
         align-content: center;
         justify-content: center;
+        overflow: hidden;
     }
     .left-ark {
         width: 400px;
