@@ -67,7 +67,7 @@ img {
     justify-content: space-between;
     background-image: var(--bg1-color);
     border-radius: 23px 23px 7px 7px;
-    padding: 30px 10px 0;
+    padding: 25px 10px 0;
 }
 .header .whitespace {
     width: 60%;
@@ -268,7 +268,7 @@ input[type="radio"] {
         width: 450px;
         height: 600px;
         position: absolute;
-        right: -110;
+        right: -110px;
         bottom: 0;
         background-color: #ede4f5;
         border-radius: 250px 250px 0 0;
